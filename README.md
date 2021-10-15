@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jioniy&show_icons=true&theme=grouvbox)
+![jioniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jioniy&show_icons=true&theme=dark)
