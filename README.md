@@ -42,5 +42,7 @@
 <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWSAmplify&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=AmazonAPIGateway&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 <br/><br/>
