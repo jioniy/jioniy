@@ -3,6 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&text=🦞%20Jiwon%20Lee's%20Profile🦞)
 	
   </div>
+  
+  <br/>
+  
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
@@ -14,6 +17,8 @@
 ![jioniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jioniy&show_icons=true&theme=onedark)
 
 </div>
+
+<br/><br/>
 
 ## <div align=center>🛠Tech Stack🛠</div>
 
@@ -36,3 +41,4 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
+<br/><br/>
