@@ -1,6 +1,6 @@
 <div align=center>
 	
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&text=🦞I'm%20Jiwon🦞&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&text=🦞I'm%20Jiwon🦞&fontSize=45)
 	
   </div>
   
