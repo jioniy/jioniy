@@ -1,3 +1,4 @@
+<!--
 <div align=center>
 	
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&text=🦞I'm%20Jiwon🦞&fontSize=40)
@@ -5,7 +6,8 @@
   </div>
 
   <br/>
-  
+  -->
+  ## Hello, I'm Jiwon 🦞
 - 👩‍💻 I'm a student majoring in <b>Information System Engineering.</b><br/>
 - 🎨 I'm interested in <b>Back-end.</b>
 <br/>
