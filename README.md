@@ -1,6 +1,6 @@
 <div align=center>
 	
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&text=🦞%20Jiwon%20Lee's%20Profile🦞)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&text=🦞I'm%20Jiwon🦞&fontSize=70)
 	
   </div>
   
