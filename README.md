@@ -1,11 +1,15 @@
 <div align=center>
 	
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&text=🦞I'm%20Jiwon🦞&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=150&text=🦞I'm%20Jiwon🦞&fontSize=40)
 	
   </div>
-  
+
   <br/>
   
+- 👩‍💻 I'm a student majoring in <b>Information System Engineering.</b><br/>
+- 🎨 I'm interested in <b>Backend Engineering.</b>
+<br/>
+
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
@@ -21,7 +25,7 @@
 <br/><br/>
 
 ## <div align=center>🛠Tech Stack🛠</div>
-<div align=center>the techniques I have used in my projects . .</div><br/>
+<div align=center>the techniques I've used in my projects . .</div><br/>
 <!--<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>-->
 <div align=center>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -38,7 +42,5 @@
 <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWSAmplify&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=AmazonAPIGateway&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 <br/><br/>
