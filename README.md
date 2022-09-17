@@ -7,7 +7,7 @@
   <br/>
   
 - 👩‍💻 I'm a student majoring in <b>Information System Engineering.</b><br/>
-- 🎨 I'm interested in <b>Backend Engineering.</b>
+- 🎨 I'm interested in <b>Back-end.</b>
 <br/>
 
 <div align=center>
