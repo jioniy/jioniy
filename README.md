@@ -39,11 +39,13 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWSAmplify&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=AmazonAPIGateway&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=AmazonAPIGateway&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
