@@ -9,7 +9,7 @@
   -->
   ## Hello, I'm Jiwon 🦞
 - 👩‍💻 I'm a student majoring in <b>Information System Engineering.</b><br/>
-- 🎨 I'm interested in <b>Back-end.</b>
+- 🎨 I'm interested in ...
 <br/>
   
 <div align=center>
