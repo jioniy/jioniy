@@ -12,11 +12,6 @@
 - 🎨 I'm interested in ...
 <br/>
   
-<div align=center>
-
-![jioniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jioniy&show_icons=true&theme=onedark)
-
-</div>
 
 <br/><br/>
 
